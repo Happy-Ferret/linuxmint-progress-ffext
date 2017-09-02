@@ -1,0 +1,16 @@
+{
+  "title": "LinuxMint Progress",
+  "name": "linuxmint-progress-ff",
+  "icon": "resource://@linuxmint-progress/data/icon.png",
+  "version": "1.0.0",
+  "description": "Adds a download progress bar for Linux Mint desktop taskbars",
+  "main": "index.js",
+  "author": "miketwebster@gmail.com",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MPL-1.1",
+  "keywords": [
+    "progress"
+  ]
+}
